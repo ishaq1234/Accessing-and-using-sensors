@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "mob.app.dev.InputModalities"
+        id        = "mob.app.dev.Accessing and using sensors"
         version   = "1.0.0">
 
-    <name>Application Input Modalities</name>
+    <name>Application Accessing and using sensors</name>
 
     <description>
         A sample application that local storage
